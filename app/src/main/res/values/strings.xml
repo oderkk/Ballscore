@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="login_btn">login</string>
+    <string name="show">BMI: </string>
+    <string name="btn1">+3</string>
+    <string name="btn2">+2</string>
+    <string name="btn3">+1</string>
+    <string name="btn4">resert</string>
+
+</resources>
